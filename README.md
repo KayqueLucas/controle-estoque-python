@@ -25,4 +25,4 @@ Este projeto foi desenvolvido como parte de um estudo de lógica computacional a
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/controle-estoque-python.git
+   git clone https://github.com/KayqueLucas/controle-estoque-python.git
